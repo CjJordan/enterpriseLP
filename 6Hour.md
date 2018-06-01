@@ -1,0 +1,76 @@
+# 6 Hour
+
+## Unit 3
+
+5. Instructor Do: What is JavaScript (2 mins)
+6. Instructor Do: Variables Slides + Demo (6 mins)
+7. Students Do: Variable Activity (7 mins)
+8. Instructor Do: Review Variable Activity (4 mins)
+
+-- Intro & Variables
+
+9. Instructor Demo: Console Log (4 mins)
+10. Instructor Do: Console Log Slides (5 mins)
+11. Students Do: Console Log Activity (7 mins)
+12. Instructor Do: Review Console.log Activity (4 mins)
+
+-- Console.log
+
+14. Instructor Demo: Alerts, Prompts, Confirms (5 mins)
+15. Instructor Do: Alerts, Prompts, Confirms Slides (5 mins)
+16. Students Do: Alert Activity (7 min)
+17. Instructor Do: Review Alert Activity (4 mins)
+
+-- Input & Output
+
+19. Instructor Demo: If/Else Statement (8 mins)
+20. Instructor Slides: If/Else Statement (5 mins)
+21. Partners Do: If/Else Activity #1 (15 mins)
+22. Instructor Do: Review If/Else Activity #1 (10 mins)
+23. Everyone Do: If/Else Activity #2 (10 mins)
+
+-- conditionals
+
+24. Instructor Do: Arrays Slides (5 mins)
+25. Instructor Do: Array Demo (6 mins)
+5. Everyone Do: Array Logging (5 mins)
+6. Everyone Do: Array Setting (5 mins)
+
+-- Arrays
+
+7. Instructor Do: For Loops (5 mins)
+8. Students Do: For Loop Dissection (5 mins)
+9. Instructor Do: For Loops Cont. (10 mins)
+10. Students Do: For Loop Zoo (15 mins)
+11. Instructor Do: Review Activity (5 mins)
+13. Students Do: Another Loop (0 min)
+14. Instructor Do: Review Activity (5 mins)
+
+-- Loops
+
+17. Everyone Do: Browser Events (10 mins)
+
+-- Events
+
+5. Instructor Do: Logging - No Functions (5 mins)
+6. Instructor Do: Logging - With Functions (10 mins)
+7. Partners Do: My First Functions (10 mins) (Critical)
+8. Instructor Do: Review Activity (10 mins)
+
+-- Functions
+
+9. Instructor Do: Good Array (5 mins)
+10. Instructor Do: Joan of Arc (Bad Arrays) (10 mins)
+11. Instructor Do: Gandalf The Grey Objects (10 mins) (Critical)
+12. Instructor Do: Gandalf The Grey (Slides) (10 mins) (Critical)
+14. Partners Do: Basic Objects (15 mins) (Critical)
+16. Instructor Do: Review Activity (10 mins) (Critical)
+
+-- Objects Intro
+
+17. Instructor Do: Car Game Solved (Browser) (5 mins)
+18. Students Do: Run that Car (20 mins)
+19. Instructor Do: Review Activity (10 mins)
+20. Everyone Do: Scope & Callbacks (20 mins)
+
+-- Advanced Functions
